@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Relatórios e templates reais
+*.pdf
+*.xls
+*.xlsx
+
+# Temporários
+~$*
+*.tmp
