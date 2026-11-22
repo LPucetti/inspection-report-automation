@@ -13,15 +13,19 @@ dist/
 *.spec
 *.exe
 
-# Visual Studio / VS Code
+# IDE
 .vs/
 .vscode/
 
-# Relatórios e templates reais
+# Private/local project data
+input/
+output/
+
+# Report files
 *.pdf
 *.xls
 *.xlsx
 
-# Temporários
+# Temporary files
 ~$*
 *.tmp
